@@ -9,11 +9,7 @@ It supports both users and researchers.
 - Researchers can upload labeled images for retraining.
 - Includes script to retrain the model using new data.
 
-## How to Run in Google Colab
-
-# ================================
-# 🍃 Mango Leaf Classifier (Colab)
-# ================================
+## How to Run in Google Colab -> Use this code below to run it
 
 # 1. Clone the GitHub repository
 !git clone https://github.com/mira-hana/Mango-Leaf-Classification.git
