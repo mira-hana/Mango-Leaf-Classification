@@ -6,8 +6,8 @@ from tensorflow.keras.optimizers import Adam
 import os
 
 DATASET_DIR = "dataset"
-MODEL_PATH = "model/mobilenetv2_mango_leaf.h5"
-UPDATED_MODEL_PATH = "model/mobilenetv2_updated.h5"
+MODEL_PATH = "mobilenetv2_mango_leaf.h5"
+UPDATED_MODEL_PATH = "mobilenetv2_updated.h5"
 IMG_SIZE = (224, 224)
 BATCH_SIZE = 16
 EPOCHS = 5
