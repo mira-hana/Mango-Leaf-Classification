@@ -11,14 +11,14 @@ It supports both users and researchers.
 
 ## How to Run in Google Colab -> Use this code below to run it
 
-# 1. Clone the GitHub repository
+#1. Clone the GitHub repository
 !git clone https://github.com/mira-hana/Mango-Leaf-Classification.git
 
-# 2. Change directory to the Gradio app folder
+#2. Change directory to the Gradio app folder
 %cd "Mango-Leaf-Classification/mango leaf gradio"
 
-# 3. Install required packages
+#3. Install required packages
 !pip install -r requirements.txt
 
-# 4. Launch the Gradio app
+#4. Launch the Gradio app
 !python app.py
