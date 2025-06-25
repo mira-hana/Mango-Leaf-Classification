@@ -9,12 +9,20 @@ It supports both users and researchers.
 - Researchers can upload labeled images for retraining.
 - Includes script to retrain the model using new data.
 
-## Setup & Run
+## How to Run in Google Colab
 
-1. Clone the repo  
-2. Install dependencies  
-3. Run the app:
+# ================================
+# 🍃 Mango Leaf Classifier (Colab)
+# ================================
 
-```bash
-pip install -r requirements.txt
-python app.py
+# 1. Clone the GitHub repository
+!git clone https://github.com/mira-hana/Mango-Leaf-Classification.git
+
+# 2. Change directory to the Gradio app folder
+%cd "Mango-Leaf-Classification/mango leaf gradio"
+
+# 3. Install required packages
+!pip install -r requirements.txt
+
+# 4. Launch the Gradio app
+!python app.py
