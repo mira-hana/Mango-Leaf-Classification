@@ -64,6 +64,8 @@ Gradio Deployment
 
 Computer Vision · Deep Learning · Transfer Learning · Fine-Tuning · Image Processing · Model Evaluation · AI Deployment
 
-*Note* Full project details can be found in the link below: 
+*Note* 
+
+Full project details can be found in the link below: 
 
 https://drive.google.com/file/d/1kOd36kpVJq3-36N6MDrU0mYNnKaFi8kl/view?usp=sharing 
