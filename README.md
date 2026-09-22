@@ -27,9 +27,10 @@ Models were evaluated using *Accuracy, Precision, Recall, and F1-Score*.
 The selected model is deployed with *Gradio*, providing:
 
 1) *User interface:* Upload an image and receive a disease prediction.
-<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/65523555-c029-45c1-ab70-32787459b383" />
+<img width="1283" height="687" alt="image" src="https://github.com/user-attachments/assets/9e5ba3b9-29e2-4117-89d8-378943915fed" />
 
 2) *Researcher interface:* Manually label images for potential future model improvements.
+<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/65523555-c029-45c1-ab70-32787459b383" />
 
 *🛠️ Technologies*
 
