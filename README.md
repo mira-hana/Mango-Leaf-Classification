@@ -14,9 +14,11 @@ MangoVis is a deep learning project that classifies *mango leaf diseases* from i
 
 *🧠 Models*
 
-1) *Simple CNN* — Baseline
-2) *MobileNetV2* — Lightweight model
-3) *EfficientNetB0* — Transfer learning & fine-tuning
+| Model              | Purpose                           |
+|--------------------|-----------------------------------|
+| **Simple CNN**     | Baseline model                    |
+| **MobileNetV2**    | Lightweight and fast              |
+| **EfficientNetB0** | Transfer learning and fine-tuning |
 
 Models were evaluated using *Accuracy, Precision, Recall, and F1-Score*.
 
@@ -25,6 +27,8 @@ Models were evaluated using *Accuracy, Precision, Recall, and F1-Score*.
 The selected model is deployed with *Gradio*, providing:
 
 1) *User interface:* Upload an image and receive a disease prediction.
+<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/65523555-c029-45c1-ab70-32787459b383" />
+
 2) *Researcher interface:* Manually label images for potential future model improvements.
 
 *🛠️ Technologies*
